@@ -5,18 +5,21 @@
 To design and implement a digital clock circuit using an oscillator as the time-base generator and basic logic gates/counters for generating seconds, minutes, and hours, and to display the time using digital displays
 
 # COMPONENT REQUIRED
-![WhatsApp Image 2025-11-22 at 09 52 23_9f2c442d](https://github.com/user-attachments/assets/e4983a35-2dca-4cd2-bd3e-526647a90837)
+![WhatsApp Image 2025-11-23 at 16 32 55_fd5051bb](https://github.com/user-attachments/assets/df8d3ba2-b62d-42b1-8485-d53a8aebbfe9)
+
 # THEORY 
-![WhatsApp Image 2025-11-22 at 09 53 19_e105f0dd](https://github.com/user-attachments/assets/abe7dac2-2966-43c7-a94c-2a213df055a1)
-![WhatsApp Image 2025-11-22 at 09 53 56_a8244e4d](https://github.com/user-attachments/assets/7239b7a7-d447-40b2-a3e0-12900f397ede)
+![WhatsApp Image 2025-11-23 at 16 33 14_49e3209a](https://github.com/user-attachments/assets/2d9239f5-c174-42fd-9b37-3f950c31190f)
+
+![WhatsApp Image 2025-11-23 at 16 33 15_277beb63](https://github.com/user-attachments/assets/0304af84-7bec-4831-bd94-9e095c3bd9dc)
 
 # PROCEDURE 
-![WhatsApp Image 2025-11-22 at 09 55 00_3b7c164f](https://github.com/user-attachments/assets/a6076b66-7756-4113-9689-7cc0bbbfacdb)
+![WhatsApp Image 2025-11-23 at 16 33 14_9d9f63dd](https://github.com/user-attachments/assets/d79573e0-abdc-4ff8-931b-b1c153de75a4)
+
 # BLOCK DIAGRAM
-![WhatsApp Image 2025-11-22 at 09 54 26_3358a4b7](https://github.com/user-attachments/assets/ea1ecdc0-dda1-46aa-a55a-33ab51d6ce5e)
+![WhatsApp Image 2025-11-23 at 16 32 11_27baee87](https://github.com/user-attachments/assets/284dd414-17cd-4159-91d8-0aafcc45a2a0)
 # OBSERVATION 
-![WhatsApp Image 2025-11-22 at 09 55 19_82a1731b](https://github.com/user-attachments/assets/408036fb-b170-4af7-9d05-3308fcd3cd53)
+![WhatsApp Image 2025-11-23 at 16 31 55_2714f533](https://github.com/user-attachments/assets/16a29369-57f5-4ddf-899b-c178672aa26f)
 # RESULT
-![WhatsApp Image 2025-11-22 at 09 55 58_9338f9e1](https://github.com/user-attachments/assets/6b34e4cd-2f09-4b72-b6eb-5682ec5595e0)
+![WhatsApp Image 2025-11-23 at 16 36 01_d9e81bc2](https://github.com/user-attachments/assets/b172743d-5555-42da-af65-68047d124413)
 
 
